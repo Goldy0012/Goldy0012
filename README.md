@@ -77,18 +77,9 @@ I'm the kind of person who:
 
 I'm always open to collabs, hackathon teams, and interesting conversations. Let's build something cool together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goldychoudhary)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/goldychoudhary)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://goldychoudhary.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goldy-choudhary-061b073b0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://goldy-choudhary.vercel.app)
 
 </div>
 
 ---
-
-<div align="center">
-
-### 💛 *"Stay curious. Keep building."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=goldychoudhary&color=F7A800&style=flat-square)
-
-</div>
